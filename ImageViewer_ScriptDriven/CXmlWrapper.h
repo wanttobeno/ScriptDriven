@@ -11,7 +11,7 @@
 #ifndef __H_CXmlWrapper__
 #define __H_CXmlWrapper__
 
-#import <msxml.dll>
+#import "msxml.dll"
 #include <afxtempl.h>
 
 typedef CArray<IXMLDOMNode*, IXMLDOMNode*> DOMNodeList;

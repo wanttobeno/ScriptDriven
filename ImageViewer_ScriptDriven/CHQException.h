@@ -12,6 +12,7 @@
 #define __H_CHQException__
 
 #include <exception>
+using namespace std;
 
 class CHQException : public exception
 {
